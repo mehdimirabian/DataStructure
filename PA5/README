@@ -1,0 +1,14 @@
+/*
+ * Name: Mohammad Mirabian
+ * CruzID: mmirabia
+ * Student ID# 1377020
+ * File Name: README.c
+ */
+
+Files:
+README
+Dictionary.c
+Dictionary.h
+DictionaryTest.c
+DictionaryClient.c
+Makefile
